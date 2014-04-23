@@ -4,7 +4,7 @@ var ice_dictionary = {
 	"saved" : "Guardado",
 	"ok" : "OK",
 	"close_editor" : "Cerrar editor",
-	"add" : "Add",
+	"add" : "Aplicar",
 	"apply" : "Apply",
 	"duplicate" : "Duplicate",
 	"copy_tooltip" : "Copiar módulo al portapapeles",
